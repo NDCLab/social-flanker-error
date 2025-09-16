@@ -36,14 +36,13 @@ This `main` branch contains completed releases for this project. For all work-in
 ## Contributors
 | Role | Name |
 | --- | --- |
-| Co-first authors / Analysis | **Yanbin Niu**\*¹, **Kianoosh Hosseini**\*² ³ |
-| Project contribution | **Andy Peña**², **Carlos Rodriguez**² |
-| PI / Advisor | **George A. Buzzell**² ³ |
+| Co-first authors / Analysis | **Yanbin Niu**\*, **Kianoosh Hosseini**\* |
+| Project contribution | **Andy Peña**, **Carlos Rodriguez** |
+| PI / Advisor | **George A. Buzzell** |
 
-\*Equal contribution. Superscripts denote affiliations (¹²³) as listed in the associated manuscript or lab pages.
-
-Learn more about us [here](https://www.ndclab.com/people).
+\*Equal contribution.
 
 ## Contributing
 If you are interested in contributing, please read our [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
 
